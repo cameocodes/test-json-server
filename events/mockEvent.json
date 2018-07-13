@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "creator": 1,
+    "title": "Hands on Intro to Coding",
+    "facilitators": [{
+        "name": "Gretchen Scott",
+        "role": "Lead Facilitator",
+        "confirmed": true
+    }, {
+        "name": "Matt McKenzie",
+        "role": "Lead Facilitator",
+        "confirmed": false
+    }],
+    "attendees": 4,
+    "status":"confirmed",
+    "organisation": "Coder Academy",
+    "bookings": [{
+        "start_time": "2018-08-18T09:00:00",
+        "end_time": "2018-08-18T16:00:00",
+        "location": "Room 14, Level 13 120 Spencer Street Melbourne"
+    }, {
+        "start_time": "2018-08-19T09:00:00",
+        "end_time": "2018-08-19T16:00:00",
+        "location": "Room 14, Level 13 120 Spencer Street Melbourne"
+    }],
+    "notes":"Hopefully this works!",
+    "onsite": true,
+    "run_sheet": "still need to figure the run sheet out"
+}
